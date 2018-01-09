@@ -1,8 +1,8 @@
 {
-  "name": "Hello world",
-  "version": "1",
-  "slug": "hello_world",
-  "description": "My first real add-on!",
+  "name": "Smart Mesh Network",
+  "version": "0.0",
+  "slug": "smart_mesh",
+  "description": "Still just a dummy!",
   "startup": "before",
   "boot": "auto",
   "options": {},
