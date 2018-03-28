@@ -1,5 +1,5 @@
 {
-  "name": "Hass.IO - SmartMesh and DMX",
-  "url": "https://hassio.tailored-ip.com/",
+  "name": "Hass.IO - SmartMesh, DMX & Homegear (HM-CFG-LAN)",
+  "url": "https://github.com/jps64/hassio-addons",
   "maintainer": "Joachim <j001@tailored-ip.com>"
 }
