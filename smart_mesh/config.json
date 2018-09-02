@@ -1,8 +1,8 @@
 {
-  "name": "Smart Mesh Network",
-  "version": "0.0",
+  "name": "DUSTlink for Smart Mesh Network",
+  "version": "0.1",
   "slug": "smart_mesh",
-  "description": "Still just a dummy!",
+  "description": "DustLink is a web-based SmartMesh IP management application written entirely in Python and is intended for use as a demo vehicle and a quick prototyping tool.",
   "startup": "before",
   "boot": "auto",
   "options": {},
