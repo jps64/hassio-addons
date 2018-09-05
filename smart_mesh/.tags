@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+SDK_VERSION	build.json	/^    "SDK_VERSION": "REL-1.0.2.63"$/;"	f
+args	build.json	/^  "args": {$/;"	f
+boot	config.json	/^  "boot": "auto",$/;"	f
+description	config.json	/^  "description": "DustLink is a web-based SmartMesh IP management application written entirely in Python and is intended for use as a demo vehicle and a quick prototyping tool.",$/;"	f
+name	config.json	/^  "name": "DUSTlink for Smart Mesh Network",$/;"	f
+options	config.json	/^  "options": {},$/;"	f
+schema	config.json	/^  "schema": {}$/;"	f
+slug	config.json	/^  "slug": "smart_mesh",$/;"	f
+startup	config.json	/^  "startup": "before",$/;"	f
+version	config.json	/^  "version": "0.1",$/;"	f
